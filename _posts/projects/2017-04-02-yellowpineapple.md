@@ -29,4 +29,4 @@ images:
     url: "/assets/images/projects/yellowpineapple/mobile.jpg"
     alt: "Yellow Pineapple website on a mobile device"
 ---
-<p>The pineapple is a herbaceous perennial, which grows to 1.0 to 1.5 m (3.3 to 4.9 ft) tall, although sometimes it can be taller. The plant takes almost three years to reach maturation. It can fruit a total of three times during its lifetime.</p>
+<p>쁘미가 처음 블로그 만들 양식이다!</p>

@@ -1,17 +1,17 @@
-# OS
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
 
-# Compilation
-.sass-cache/
+# Jekyll 이 생성한 메타 데이터 무시
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Logs and db's
-*.log
-*.sql
-*.sqlite
+# Bundler 가 생성한 폴더 무시
+.bundle/
+vendor/
+
+Gemfile.lock
